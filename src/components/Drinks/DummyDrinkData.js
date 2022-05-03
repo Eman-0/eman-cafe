@@ -14,7 +14,7 @@ const DUMMY_DRINK_DATA = [
     {
       id: 'd3',
       name: 'Latte',
-      description: 'House specialty',
+      description: 'House Specialty',
       price: 12.99,
     },
     {
