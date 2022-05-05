@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eman-cafe/static/css/main.21c1362d.css",
-    "main.js": "/eman-cafe/static/js/main.d933c19a.js",
+    "main.css": "/eman-cafe/static/css/main.d3609348.css",
+    "main.js": "/eman-cafe/static/js/main.d573f5d9.js",
     "static/js/787.9643ecdb.chunk.js": "/eman-cafe/static/js/787.9643ecdb.chunk.js",
     "static/media/coffee-background.jpg": "/eman-cafe/static/media/coffee-background.ca3ea8730cf3fc77808f.jpg",
     "index.html": "/eman-cafe/index.html",
-    "main.21c1362d.css.map": "/eman-cafe/static/css/main.21c1362d.css.map",
-    "main.d933c19a.js.map": "/eman-cafe/static/js/main.d933c19a.js.map",
+    "main.d3609348.css.map": "/eman-cafe/static/css/main.d3609348.css.map",
+    "main.d573f5d9.js.map": "/eman-cafe/static/js/main.d573f5d9.js.map",
     "787.9643ecdb.chunk.js.map": "/eman-cafe/static/js/787.9643ecdb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21c1362d.css",
-    "static/js/main.d933c19a.js"
+    "static/css/main.d3609348.css",
+    "static/js/main.d573f5d9.js"
   ]
 }
